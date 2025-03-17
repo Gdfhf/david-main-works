@@ -6,5 +6,5 @@ These projects can be media, documents or other miscelaneus projects as a form o
 
 ## Projects in this respository
 Currently, the works in this repository are:
-- [HTML_Documentos](HTML_Docments/Simple_Index.html): These HTML pages hold my analysis of the free available dataset from my Post Graduate program (See LinkedIn for more information). These pages were made from Jupyter Notebooks and computed using Google's Colab.
+- [HTML_Documentos](HipoHTML_Docments/Simple_Index.html): These HTML pages hold my analysis of the free available dataset from my Post Graduate program (See LinkedIn for more information). These pages were made from Jupyter Notebooks and computed using Google's Colab.
   - I won't upload the Jupyter files to prevent securities issues.
